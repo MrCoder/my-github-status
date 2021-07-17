@@ -27,16 +27,17 @@
 | 17 | [love-performace-review](https://github.com/MrCoder/love-performace-review)           | 2013-09-12 | 2014-01-08 | JavaScript |     0 |
 | 18 | [mrcoder](https://github.com/MrCoder/mrcoder)                                         | 2020-07-21 | 2020-07-21 | md         |     0 |
 | 19 | [mvnidea](https://github.com/MrCoder/mvnidea)                                         | 2012-12-03 | 2013-01-13 | md         |     0 |
-| 20 | [ngss](https://github.com/MrCoder/ngss)                                               | 2013-09-20 | 2013-10-10 | JavaScript |     0 |
-| 21 | [copycode](https://github.com/MrCoder/copycode)                                       | 2021-03-17 | 2021-03-17 | JavaScript |     0 |
-| 22 | [colorSeq](https://github.com/MrCoder/colorSeq)                                       | 2012-08-17 | 2014-01-28 | md         |     0 |
-| 23 | [Bombora-Tech](https://github.com/MrCoder/Bombora-Tech)                               | 2013-08-19 | 2013-08-19 | md         |     0 |
-| 24 | [test-git-commands](https://github.com/MrCoder/test-git-commands)                     | 2019-05-15 | 2019-05-15 | md         |     0 |
-| 25 | [test-lucidchart-integration](https://github.com/MrCoder/test-lucidchart-integration) | 2019-10-27 | 2020-07-09 | md         |     0 |
-| 26 | [test-pages-md](https://github.com/MrCoder/test-pages-md)                             | 2014-06-02 | 2014-06-07 | CSS        |     0 |
-| 27 | [voters-born-before-1920](https://github.com/MrCoder/voters-born-before-1920)         | 2020-11-06 | 2020-11-06 | md         |     0 |
-| 28 | [vue-wc-slot-issue](https://github.com/MrCoder/vue-wc-slot-issue)                     | 2019-10-12 | 2019-10-12 | Vue        |     0 |
-| 29 | [xiaobingxiaokang](https://github.com/MrCoder/xiaobingxiaokang)                       | 2014-11-14 | 2014-11-14 | CSS        |     0 |
+| 20 | [my-github-status](https://github.com/MrCoder/my-github-status)                       | 2021-04-09 | 2021-07-16 | md         |     0 |
+| 21 | [ngss](https://github.com/MrCoder/ngss)                                               | 2013-09-20 | 2013-10-10 | JavaScript |     0 |
+| 22 | [copycode](https://github.com/MrCoder/copycode)                                       | 2021-03-17 | 2021-03-17 | JavaScript |     0 |
+| 23 | [colorSeq](https://github.com/MrCoder/colorSeq)                                       | 2012-08-17 | 2014-01-28 | md         |     0 |
+| 24 | [Bombora-Tech](https://github.com/MrCoder/Bombora-Tech)                               | 2013-08-19 | 2013-08-19 | md         |     0 |
+| 25 | [test-git-commands](https://github.com/MrCoder/test-git-commands)                     | 2019-05-15 | 2019-05-15 | md         |     0 |
+| 26 | [test-lucidchart-integration](https://github.com/MrCoder/test-lucidchart-integration) | 2019-10-27 | 2020-07-09 | md         |     0 |
+| 27 | [test-pages-md](https://github.com/MrCoder/test-pages-md)                             | 2014-06-02 | 2014-06-07 | CSS        |     0 |
+| 28 | [voters-born-before-1920](https://github.com/MrCoder/voters-born-before-1920)         | 2020-11-06 | 2020-11-06 | md         |     0 |
+| 29 | [vue-wc-slot-issue](https://github.com/MrCoder/vue-wc-slot-issue)                     | 2019-10-12 | 2019-10-12 | Vue        |     0 |
+| 30 | [xiaobingxiaokang](https://github.com/MrCoder/xiaobingxiaokang)                       | 2014-11-14 | 2014-11-14 | CSS        |     0 |
 
 ## The repos I contributed to
 | ID |                                                REPO                                                | FIRSTDATE  | LASTEDATE  |                                                 PRCOUNT                                                  |
@@ -46,24 +47,24 @@
 |  3 | [web-sequence](https://github.com/ZenUml/web-sequence)                                             | 2019-09-05 | 2021-02-03 | [32](https://github.com/ZenUml/web-sequence/pulls?q=is%3Apr+author%3AMrCoder)                            |
 |  4 | [confluence-plugin-server](https://github.com/ZenUml/confluence-plugin-server)                     | 2020-01-01 | 2021-02-05 | [22](https://github.com/ZenUml/confluence-plugin-server/pulls?q=is%3Apr+author%3AMrCoder)                |
 |  5 | [diagram-as-code](https://github.com/ZenUml/diagram-as-code)                                       | 2020-07-05 | 2021-02-06 | [8](https://github.com/ZenUml/diagram-as-code/pulls?q=is%3Apr+author%3AMrCoder)                          |
-|  6 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
+|  6 | [refined-github](https://github.com/ZenUml/refined-github)                                         | 2020-06-30 | 2020-06-30 | [2](https://github.com/ZenUml/refined-github/pulls?q=is%3Apr+author%3AMrCoder)                           |
 |  7 | [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | 2021-04-03 | 2021-04-03 | [2](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls?q=is%3Apr+author%3AMrCoder) |
-|  8 | [refined-github](https://github.com/ZenUml/refined-github)                                         | 2020-06-30 | 2020-06-30 | [2](https://github.com/ZenUml/refined-github/pulls?q=is%3Apr+author%3AMrCoder)                           |
-|  9 | [mume](https://github.com/shd101wyy/mume)                                                          | 2019-10-17 | 2019-10-17 | [2](https://github.com/shd101wyy/mume/pulls?q=is%3Apr+author%3AMrCoder)                                  |
+|  8 | [mume](https://github.com/shd101wyy/mume)                                                          | 2019-10-17 | 2019-10-17 | [2](https://github.com/shd101wyy/mume/pulls?q=is%3Apr+author%3AMrCoder)                                  |
+|  9 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
 | 10 | [SequencePlugin](https://github.com/ZenUml/SequencePlugin)                                         | 2019-05-28 | 2019-05-28 | [2](https://github.com/ZenUml/SequencePlugin/pulls?q=is%3Apr+author%3AMrCoder)                           |
 
 ## The repos I stared (random 10)
 | ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [play-mods](https://github.com/mklabs/play-mods)                                                 | 2014-07-17 | JavaScript | 2016-04-24   |
-|  2 | [stompc](https://github.com/mechiland/stompc)                                                    | 2009-12-18 | C          | 2017-03-24   |
-|  3 | [pua-lang](https://github.com/flaneur2020/pua-lang)                                              | 2021-04-19 | Rust       | 2021-07-15   |
-|  4 | [demo-directives](https://github.com/mhevery/demo-directives)                                    | 2013-05-08 | JavaScript | 2016-05-15   |
-|  5 | [angularjs.org](https://github.com/angular/angularjs.org)                                        | 2014-02-10 | JavaScript | 2021-07-02   |
-|  6 | [3-pages-in-3-weeks](https://github.com/abruzzi/3-pages-in-3-weeks)                              | 2015-06-13 | CSS        | 2021-06-28   |
-|  7 | [vue-atlas](https://github.com/nvms/vue-atlas)                                                   | 2020-06-27 | Vue        | 2021-07-10   |
-|  8 | [Specification-by-example-SalesTax](https://github.com/swzhou/Specification-by-example-SalesTax) | 2012-02-26 | Java       | 2014-01-01   |
-|  9 | [echowaves.socialgroupchat](https://github.com/echowaves/echowaves.socialgroupchat)              | 2010-02-19 | Ruby       | 2020-03-09   |
-| 10 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)                                    | 2010-11-15 | JavaScript | 2021-03-12   |
+|  1 | [svelte](https://github.com/sveltejs/svelte)                                                     | 2019-10-14 | TypeScript | 2021-07-16   |
+|  2 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)                                    | 2010-11-15 | JavaScript | 2021-03-12   |
+|  3 | [stompc](https://github.com/mechiland/stompc)                                                    | 2009-12-18 | C          | 2017-03-24   |
+|  4 | [m-r](https://github.com/gregoryyoung/m-r)                                                       | 2020-04-08 | C#         | 2021-07-11   |
+|  5 | [Specification-by-example-SalesTax](https://github.com/swzhou/Specification-by-example-SalesTax) | 2012-02-26 | Java       | 2014-01-01   |
+|  6 | [html5-helloworld](https://github.com/mechiland/html5-helloworld)                                | 2010-10-29 | md         | 2015-08-09   |
+|  7 | [play-mods](https://github.com/mklabs/play-mods)                                                 | 2014-07-17 | JavaScript | 2016-04-24   |
+|  8 | [readme](https://github.com/ZenUml/readme)                                                       | 2017-10-25 | JavaScript | 2020-08-25   |
+|  9 | [skill-map](https://github.com/TeamStuQ/skill-map)                                               | 2016-06-17 | HTML       | 2021-07-16   |
+| 10 | [feedback-gathering](https://github.com/mmollaverdi/feedback-gathering)                          | 2013-12-03 | CSS        | 2014-01-05   |
 
 <!--END_SECTION:my_github-->
