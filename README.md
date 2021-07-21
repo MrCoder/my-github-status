@@ -27,7 +27,7 @@
 | 17 | [love-performace-review](https://github.com/MrCoder/love-performace-review)           | 2013-09-12 | 2014-01-08 | JavaScript |     0 |
 | 18 | [mrcoder](https://github.com/MrCoder/mrcoder)                                         | 2020-07-21 | 2020-07-21 | md         |     0 |
 | 19 | [mvnidea](https://github.com/MrCoder/mvnidea)                                         | 2012-12-03 | 2013-01-13 | md         |     0 |
-| 20 | [my-github-status](https://github.com/MrCoder/my-github-status)                       | 2021-04-09 | 2021-07-19 | md         |     0 |
+| 20 | [my-github-status](https://github.com/MrCoder/my-github-status)                       | 2021-04-09 | 2021-07-20 | md         |     0 |
 | 21 | [ngss](https://github.com/MrCoder/ngss)                                               | 2013-09-20 | 2013-10-10 | JavaScript |     0 |
 | 22 | [copycode](https://github.com/MrCoder/copycode)                                       | 2021-03-17 | 2021-03-17 | JavaScript |     0 |
 | 23 | [colorSeq](https://github.com/MrCoder/colorSeq)                                       | 2012-08-17 | 2014-01-28 | md         |     0 |
@@ -47,24 +47,24 @@
 |  3 | [web-sequence](https://github.com/ZenUml/web-sequence)                                             | 2019-09-05 | 2021-02-03 | [32](https://github.com/ZenUml/web-sequence/pulls?q=is%3Apr+author%3AMrCoder)                            |
 |  4 | [confluence-plugin-server](https://github.com/ZenUml/confluence-plugin-server)                     | 2020-01-01 | 2021-02-05 | [22](https://github.com/ZenUml/confluence-plugin-server/pulls?q=is%3Apr+author%3AMrCoder)                |
 |  5 | [diagram-as-code](https://github.com/ZenUml/diagram-as-code)                                       | 2020-07-05 | 2021-02-06 | [8](https://github.com/ZenUml/diagram-as-code/pulls?q=is%3Apr+author%3AMrCoder)                          |
-|  6 | [refined-github](https://github.com/ZenUml/refined-github)                                         | 2020-06-30 | 2020-06-30 | [2](https://github.com/ZenUml/refined-github/pulls?q=is%3Apr+author%3AMrCoder)                           |
-|  7 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
+|  6 | [mume](https://github.com/shd101wyy/mume)                                                          | 2019-10-17 | 2019-10-17 | [2](https://github.com/shd101wyy/mume/pulls?q=is%3Apr+author%3AMrCoder)                                  |
+|  7 | [refined-github](https://github.com/ZenUml/refined-github)                                         | 2020-06-30 | 2020-06-30 | [2](https://github.com/ZenUml/refined-github/pulls?q=is%3Apr+author%3AMrCoder)                           |
 |  8 | [SequencePlugin](https://github.com/ZenUml/SequencePlugin)                                         | 2019-05-28 | 2019-05-28 | [2](https://github.com/ZenUml/SequencePlugin/pulls?q=is%3Apr+author%3AMrCoder)                           |
 |  9 | [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | 2021-04-03 | 2021-04-03 | [2](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls?q=is%3Apr+author%3AMrCoder) |
-| 10 | [mume](https://github.com/shd101wyy/mume)                                                          | 2019-10-17 | 2019-10-17 | [2](https://github.com/shd101wyy/mume/pulls?q=is%3Apr+author%3AMrCoder)                                  |
+| 10 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ParkingLot](https://github.com/MrCoder/ParkingLot)                                | 2010-10-30 | Java       | 2013-10-15   |
-|  2 | [svelte](https://github.com/sveltejs/svelte)                                       | 2019-10-14 | TypeScript | 2021-07-20   |
-|  3 | [readme](https://github.com/ZenUml/readme)                                         | 2017-10-25 | JavaScript | 2020-08-25   |
-|  4 | [skill-map](https://github.com/TeamStuQ/skill-map)                                 | 2016-06-17 | HTML       | 2021-07-19   |
-|  5 | [iXpense2](https://github.com/MrCoder/iXpense2)                                    | 2010-11-02 | JavaScript | 2013-12-27   |
-|  6 | [stompc](https://github.com/mechiland/stompc)                                      | 2009-12-18 | C          | 2017-03-24   |
-|  7 | [angularjs.org](https://github.com/angular/angularjs.org)                          | 2014-02-10 | JavaScript | 2021-07-02   |
-|  8 | [html5-helloworld](https://github.com/mechiland/html5-helloworld)                  | 2010-10-29 | md         | 2015-08-09   |
-|  9 | [CodeReview](https://github.com/MrCoder/CodeReview)                                | 2010-10-29 | md         | 2013-07-05   |
-| 10 | [tworgy-spaced-repetition](https://github.com/matholroyd/tworgy-spaced-repetition) | 2009-12-18 | Ruby       | 2021-03-02   |
+| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [moco](https://github.com/dreamhead/moco)                                           | 2013-05-14 | Java       | 2021-07-20   |
+|  2 | [angular-express-seed](https://github.com/btford/angular-express-seed)              | 2014-02-10 | JavaScript | 2021-07-20   |
+|  3 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)                       | 2010-11-15 | JavaScript | 2021-03-12   |
+|  4 | [act](https://github.com/nektos/act)                                                | 2021-04-01 | Go         | 2021-07-20   |
+|  5 | [skill-map](https://github.com/TeamStuQ/skill-map)                                  | 2016-06-17 | HTML       | 2021-07-20   |
+|  6 | [iXpense2](https://github.com/MrCoder/iXpense2)                                     | 2010-11-02 | JavaScript | 2013-12-27   |
+|  7 | [pua-lang](https://github.com/flaneur2020/pua-lang)                                 | 2021-04-19 | Rust       | 2021-07-20   |
+|  8 | [echowaves.socialgroupchat](https://github.com/echowaves/echowaves.socialgroupchat) | 2010-02-19 | Ruby       | 2020-03-09   |
+|  9 | [Javafx-WebView-Debugger](https://github.com/vsch/Javafx-WebView-Debugger)          | 2021-05-12 | Java       | 2021-07-06   |
+| 10 | [3-pages-in-3-weeks](https://github.com/abruzzi/3-pages-in-3-weeks)                 | 2015-06-13 | CSS        | 2021-06-28   |
 
 <!--END_SECTION:my_github-->
