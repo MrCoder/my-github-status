@@ -27,7 +27,7 @@
 | 17 | [love-performace-review](https://github.com/MrCoder/love-performace-review)           | 2013-09-12 | 2014-01-08 | JavaScript |     0 |
 | 18 | [mrcoder](https://github.com/MrCoder/mrcoder)                                         | 2020-07-21 | 2020-07-21 | md         |     0 |
 | 19 | [mvnidea](https://github.com/MrCoder/mvnidea)                                         | 2012-12-03 | 2013-01-13 | md         |     0 |
-| 20 | [my-github-status](https://github.com/MrCoder/my-github-status)                       | 2021-04-09 | 2021-08-20 | md         |     0 |
+| 20 | [my-github-status](https://github.com/MrCoder/my-github-status)                       | 2021-04-09 | 2021-08-21 | md         |     0 |
 | 21 | [ngss](https://github.com/MrCoder/ngss)                                               | 2013-09-20 | 2013-10-10 | JavaScript |     0 |
 | 22 | [copycode](https://github.com/MrCoder/copycode)                                       | 2021-03-17 | 2021-03-17 | JavaScript |     0 |
 | 23 | [colorSeq](https://github.com/MrCoder/colorSeq)                                       | 2012-08-17 | 2014-01-28 | md         |     0 |
@@ -54,17 +54,17 @@
 | 10 | [SequencePlugin](https://github.com/ZenUml/SequencePlugin)                                         | 2019-05-28 | 2019-05-28 | [2](https://github.com/ZenUml/SequencePlugin/pulls?q=is%3Apr+author%3AMrCoder)                           |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Specification-by-example-SalesTax](https://github.com/MrCoder/Specification-by-example-SalesTax) | 2012-02-29 | md         | 2013-01-08   |
-|  2 | [react-flow](https://github.com/wbkd/react-flow)                                                  | 2021-04-27 | TypeScript | 2021-08-20   |
-|  3 | [demo-directives](https://github.com/mhevery/demo-directives)                                     | 2013-05-08 | JavaScript | 2016-05-15   |
-|  4 | [play-mods](https://github.com/mklabs/play-mods)                                                  | 2014-07-17 | JavaScript | 2016-04-24   |
-|  5 | [html5-helloworld](https://github.com/MrCoder/html5-helloworld)                                   | 2010-11-15 | md         | 2012-12-15   |
-|  6 | [Specification-by-example-SalesTax](https://github.com/swzhou/Specification-by-example-SalesTax)  | 2012-02-26 | Java       | 2014-01-01   |
-|  7 | [skill-map](https://github.com/TeamStuQ/skill-map)                                                | 2016-06-17 | HTML       | 2021-08-20   |
-|  8 | [Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example)        | 2018-06-30 | C#         | 2021-08-16   |
-|  9 | [sourcegraph](https://github.com/sourcegraph/sourcegraph)                                         | 2020-06-28 | Go         | 2021-08-20   |
-| 10 | [iXpense](https://github.com/MrCoder/iXpense)                                                     | 2010-10-31 | Java       | 2013-10-08   |
+| ID |                                               REPO                                                | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [pluto](https://github.com/ajessup/pluto)                                                         | 2010-06-28 | JavaScript   | 2019-08-13   |
+|  2 | [Specification-by-example-SalesTax](https://github.com/MrCoder/Specification-by-example-SalesTax) | 2012-02-29 | md           | 2013-01-08   |
+|  3 | [tworgy-spaced-repetition](https://github.com/matholroyd/tworgy-spaced-repetition)                | 2009-12-18 | Ruby         | 2021-08-08   |
+|  4 | [model](https://github.com/goadesign/model)                                                       | 2021-02-23 | Go           | 2021-08-21   |
+|  5 | [stompc](https://github.com/mechiland/stompc)                                                     | 2009-12-18 | C            | 2017-03-24   |
+|  6 | [nosql-unit](https://github.com/lordofthejars/nosql-unit)                                         | 2017-01-26 | Java         | 2021-06-10   |
+|  7 | [angularjs.org](https://github.com/angular/angularjs.org)                                         | 2014-02-10 | JavaScript   | 2021-08-14   |
+|  8 | [jumly](https://github.com/tmtk75/jumly)                                                          | 2017-06-30 | CoffeeScript | 2021-04-29   |
+|  9 | [resume](https://github.com/MrCoder/resume)                                                       | 2012-03-14 | md           | 2014-05-05   |
+| 10 | [iXpense](https://github.com/MrCoder/iXpense)                                                     | 2010-10-31 | Java         | 2013-10-08   |
 
 <!--END_SECTION:my_github-->
