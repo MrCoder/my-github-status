@@ -27,7 +27,7 @@
 | 17 | [love-performace-review](https://github.com/MrCoder/love-performace-review)           | 2013-09-12 | 2014-01-08 | JavaScript |     0 |
 | 18 | [mrcoder](https://github.com/MrCoder/mrcoder)                                         | 2020-07-21 | 2020-07-21 | md         |     0 |
 | 19 | [mvnidea](https://github.com/MrCoder/mvnidea)                                         | 2012-12-03 | 2013-01-13 | md         |     0 |
-| 20 | [my-github-status](https://github.com/MrCoder/my-github-status)                       | 2021-04-09 | 2021-11-18 | md         |     0 |
+| 20 | [my-github-status](https://github.com/MrCoder/my-github-status)                       | 2021-04-09 | 2021-11-19 | md         |     0 |
 | 21 | [ngss](https://github.com/MrCoder/ngss)                                               | 2013-09-20 | 2013-10-10 | JavaScript |     0 |
 | 22 | [copycode](https://github.com/MrCoder/copycode)                                       | 2021-03-17 | 2021-03-17 | JavaScript |     0 |
 | 23 | [colorSeq](https://github.com/MrCoder/colorSeq)                                       | 2012-08-17 | 2014-01-28 | md         |     0 |
@@ -55,15 +55,15 @@
 ## The repos I stared (random 10)
 | ID |                                            REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [html5-helloworld](https://github.com/MrCoder/html5-helloworld)                            | 2010-11-15 | md         | 2012-12-15   |
-|  2 | [sourcegraph](https://github.com/sourcegraph/sourcegraph)                                  | 2020-06-28 | Go         | 2021-11-19   |
-|  3 | [Javafx-WebView-Debugger](https://github.com/vsch/Javafx-WebView-Debugger)                 | 2021-05-12 | Java       | 2021-09-18   |
-|  4 | [model](https://github.com/goadesign/model)                                                | 2021-02-23 | Go         | 2021-11-17   |
-|  5 | [Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) | 2018-06-30 | C#         | 2021-11-18   |
-|  6 | [iXpense2](https://github.com/MrCoder/iXpense2)                                            | 2010-11-02 | JavaScript | 2013-12-27   |
-|  7 | [play-mods](https://github.com/mklabs/play-mods)                                           | 2014-07-17 | JavaScript | 2016-04-24   |
-|  8 | [Twitter-Blog-Demo](https://github.com/overture8/Twitter-Blog-Demo)                        | 2009-12-18 | Ruby       | 2019-08-13   |
-|  9 | [act](https://github.com/nektos/act)                                                       | 2021-04-01 | Go         | 2021-11-19   |
-| 10 | [stompc](https://github.com/mechiland/stompc)                                              | 2009-12-18 | C          | 2017-03-24   |
+|  1 | [Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) | 2018-06-30 | C#         | 2021-11-19   |
+|  2 | [vue-atlas](https://github.com/nvms/vue-atlas)                                             | 2020-06-27 | Vue        | 2021-11-15   |
+|  3 | [ParkingLot](https://github.com/MrCoder/ParkingLot)                                        | 2010-10-30 | Java       | 2013-10-15   |
+|  4 | [stompc](https://github.com/mechiland/stompc)                                              | 2009-12-18 | C          | 2017-03-24   |
+|  5 | [readme](https://github.com/ZenUml/readme)                                                 | 2017-10-25 | JavaScript | 2020-08-25   |
+|  6 | [pluto](https://github.com/ajessup/pluto)                                                  | 2010-06-28 | JavaScript | 2019-08-13   |
+|  7 | [iXpense](https://github.com/MrCoder/iXpense)                                              | 2010-10-31 | Java       | 2013-10-08   |
+|  8 | [theRailWorld](https://github.com/overture8/theRailWorld)                                  | 2009-12-18 | JavaScript | 2019-08-13   |
+|  9 | [3-pages-in-3-weeks](https://github.com/abruzzi/3-pages-in-3-weeks)                        | 2015-06-13 | CSS        | 2021-08-27   |
+| 10 | [pua-lang](https://github.com/flaneur2020/pua-lang)                                        | 2021-04-19 | Rust       | 2021-11-19   |
 
 <!--END_SECTION:my_github-->
