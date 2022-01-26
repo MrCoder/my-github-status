@@ -54,17 +54,17 @@
 | 10 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [theRailWorld](https://github.com/overture8/theRailWorld)       | 2009-12-18 | JavaScript | 2019-08-13   |
-|  2 | [iXpense2](https://github.com/MrCoder/iXpense2)                 | 2010-11-02 | JavaScript | 2013-12-27   |
-|  3 | [nosql-unit](https://github.com/lordofthejars/nosql-unit)       | 2017-01-26 | Java       | 2021-12-07   |
-|  4 | [ParkingLot](https://github.com/MrCoder/ParkingLot)             | 2010-10-30 | Java       | 2013-10-15   |
-|  5 | [play-mods](https://github.com/mklabs/play-mods)                | 2014-07-17 | JavaScript | 2016-04-24   |
-|  6 | [html5-helloworld](https://github.com/MrCoder/html5-helloworld) | 2010-11-15 | md         | 2012-12-15   |
-|  7 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)   | 2010-11-15 | JavaScript | 2021-03-12   |
-|  8 | [sourcegraph](https://github.com/sourcegraph/sourcegraph)       | 2020-06-28 | Go         | 2022-01-24   |
-|  9 | [angularjs.org](https://github.com/angular/angularjs.org)       | 2014-02-10 | JavaScript | 2021-12-26   |
-| 10 | [act](https://github.com/nektos/act)                            | 2021-04-01 | Go         | 2022-01-25   |
+| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [act](https://github.com/nektos/act)                                                             | 2021-04-01 | Go         | 2022-01-26   |
+|  2 | [pluto](https://github.com/ajessup/pluto)                                                        | 2010-06-28 | JavaScript | 2019-08-13   |
+|  3 | [readme](https://github.com/ZenUml/readme)                                                       | 2017-10-25 | JavaScript | 2020-08-25   |
+|  4 | [moco](https://github.com/dreamhead/moco)                                                        | 2013-05-14 | Java       | 2022-01-25   |
+|  5 | [Javafx-WebView-Debugger](https://github.com/vsch/Javafx-WebView-Debugger)                       | 2021-05-12 | Java       | 2022-01-20   |
+|  6 | [3-pages-in-3-weeks](https://github.com/abruzzi/3-pages-in-3-weeks)                              | 2015-06-13 | CSS        | 2021-08-27   |
+|  7 | [Specification-by-example-SalesTax](https://github.com/swzhou/Specification-by-example-SalesTax) | 2012-02-26 | Java       | 2014-01-01   |
+|  8 | [Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example)       | 2018-06-30 | C#         | 2022-01-25   |
+|  9 | [pua-lang](https://github.com/flaneur2020/pua-lang)                                              | 2021-04-19 | Rust       | 2022-01-26   |
+| 10 | [m-r](https://github.com/gregoryyoung/m-r)                                                       | 2020-04-08 | C#         | 2022-01-24   |
 
 <!--END_SECTION:my_github-->
