@@ -54,17 +54,17 @@
 | 10 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
 
 ## The repos I stared (random 10)
-| ID |                                            REPO                                            | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) | 2018-06-30 | C#           | 2022-02-03   |
-|  2 | [panel](https://github.com/pterodactyl/panel)                                              | 2021-12-27 | PHP          | 2022-02-06   |
-|  3 | [model](https://github.com/goadesign/model)                                                | 2021-02-23 | Go           | 2022-02-01   |
-|  4 | [CS_eBooks](https://github.com/Aj-Ong/CS_eBooks)                                           | 2022-02-05 | md           | 2022-02-05   |
-|  5 | [stompc](https://github.com/mechiland/stompc)                                              | 2009-12-18 | C            | 2017-03-24   |
-|  6 | [jumly](https://github.com/tmtk75/jumly)                                                   | 2017-06-30 | CoffeeScript | 2021-11-26   |
-|  7 | [pluto](https://github.com/ajessup/pluto)                                                  | 2010-06-28 | JavaScript   | 2019-08-13   |
-|  8 | [resume](https://github.com/MrCoder/resume)                                                | 2012-03-14 | md           | 2014-05-05   |
-|  9 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)                              | 2010-11-15 | JavaScript   | 2021-03-12   |
-| 10 | [angularjs.org](https://github.com/angular/angularjs.org)                                  | 2014-02-10 | JavaScript   | 2022-02-06   |
+| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [html5-helloworld](https://github.com/MrCoder/html5-helloworld)                                  | 2010-11-15 | md         | 2012-12-15   |
+|  2 | [feedback-gathering](https://github.com/mmollaverdi/feedback-gathering)                          | 2013-12-03 | CSS        | 2014-01-05   |
+|  3 | [CS_eBooks](https://github.com/Aj-Ong/CS_eBooks)                                                 | 2022-02-05 | md         | 2022-02-05   |
+|  4 | [theRailWorld](https://github.com/overture8/theRailWorld)                                        | 2009-12-18 | JavaScript | 2019-08-13   |
+|  5 | [m-r](https://github.com/gregoryyoung/m-r)                                                       | 2020-04-08 | C#         | 2022-02-06   |
+|  6 | [react-flow](https://github.com/wbkd/react-flow)                                                 | 2021-04-27 | TypeScript | 2022-02-08   |
+|  7 | [Javafx-WebView-Debugger](https://github.com/vsch/Javafx-WebView-Debugger)                       | 2021-05-12 | Java       | 2022-01-20   |
+|  8 | [Specification-by-example-SalesTax](https://github.com/swzhou/Specification-by-example-SalesTax) | 2012-02-26 | Java       | 2014-01-01   |
+|  9 | [skill-map](https://github.com/TeamStuQ/skill-map)                                               | 2016-06-17 | HTML       | 2022-02-07   |
+| 10 | [html5-helloworld](https://github.com/mechiland/html5-helloworld)                                | 2010-10-29 | md         | 2015-08-09   |
 
 <!--END_SECTION:my_github-->
