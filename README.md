@@ -42,9 +42,9 @@
 ## The repos I contributed to
 | ID |                                                REPO                                                | FIRSTDATE  | LASTEDATE  |                                                 PRCOUNT                                                  |
 |----|----------------------------------------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------|
-|  1 | [confluence-plugin-cloud](https://github.com/ZenUml/confluence-plugin-cloud)                       | 2020-04-04 | 2022-02-12 | [118](https://github.com/ZenUml/confluence-plugin-cloud/pulls?q=is%3Apr+author%3AMrCoder)                |
+|  1 | [confluence-plugin-cloud](https://github.com/ZenUml/confluence-plugin-cloud)                       | 2020-04-04 | 2022-02-18 | [120](https://github.com/ZenUml/confluence-plugin-cloud/pulls?q=is%3Apr+author%3AMrCoder)                |
 |  2 | [web-sequence](https://github.com/ZenUml/web-sequence)                                             | 2020-06-07 | 2022-01-11 | [30](https://github.com/ZenUml/web-sequence/pulls?q=is%3Apr+author%3AMrCoder)                            |
-|  3 | [confluence-plugin-server](https://github.com/ZenUml/confluence-plugin-server)                     | 2020-01-13 | 2021-02-05 | [16](https://github.com/ZenUml/confluence-plugin-server/pulls?q=is%3Apr+author%3AMrCoder)                |
+|  3 | [confluence-plugin-server](https://github.com/ZenUml/confluence-plugin-server)                     | 2020-01-15 | 2021-02-05 | [14](https://github.com/ZenUml/confluence-plugin-server/pulls?q=is%3Apr+author%3AMrCoder)                |
 |  4 | [jetbrains-zenuml](https://github.com/ZenUml/jetbrains-zenuml)                                     | 2020-08-16 | 2021-11-09 | [12](https://github.com/ZenUml/jetbrains-zenuml/pulls?q=is%3Apr+author%3AMrCoder)                        |
 |  5 | [diagram-as-code](https://github.com/ZenUml/diagram-as-code)                                       | 2020-07-05 | 2021-02-06 | [8](https://github.com/ZenUml/diagram-as-code/pulls?q=is%3Apr+author%3AMrCoder)                          |
 |  6 | [moco](https://github.com/dreamhead/moco)                                                          | 2022-01-04 | 2022-01-08 | [4](https://github.com/dreamhead/moco/pulls?q=is%3Apr+author%3AMrCoder)                                  |
@@ -54,17 +54,17 @@
 | 10 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [demo-directives](https://github.com/mhevery/demo-directives)          | 2013-05-08 | JavaScript   | 2016-05-15   |
-|  2 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)          | 2010-11-15 | JavaScript   | 2021-03-12   |
-|  3 | [iXpense](https://github.com/MrCoder/iXpense)                          | 2010-10-31 | Java         | 2013-10-08   |
-|  4 | [pluto](https://github.com/ajessup/pluto)                              | 2010-06-28 | JavaScript   | 2019-08-13   |
-|  5 | [svelte](https://github.com/sveltejs/svelte)                           | 2019-10-14 | TypeScript   | 2022-02-16   |
-|  6 | [angular-express-seed](https://github.com/btford/angular-express-seed) | 2014-02-10 | JavaScript   | 2022-02-15   |
-|  7 | [nosql-unit](https://github.com/lordofthejars/nosql-unit)              | 2017-01-26 | Java         | 2021-12-07   |
-|  8 | [m-r](https://github.com/gregoryyoung/m-r)                             | 2020-04-08 | C#           | 2022-02-15   |
-|  9 | [vue-atlas](https://github.com/nvms/vue-atlas)                         | 2020-06-27 | Vue          | 2022-02-02   |
-| 10 | [jumly](https://github.com/tmtk75/jumly)                               | 2017-06-30 | CoffeeScript | 2021-11-26   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [panel](https://github.com/pterodactyl/panel)                                            | 2021-12-27 | PHP        | 2022-02-17   |
+|  2 | [pua-lang](https://github.com/flaneur2020/pua-lang)                                      | 2021-04-19 | Rust       | 2022-02-17   |
+|  3 | [iXpense](https://github.com/MrCoder/iXpense)                                            | 2010-10-31 | Java       | 2013-10-08   |
+|  4 | [Twitter-Blog-Demo](https://github.com/overture8/Twitter-Blog-Demo)                      | 2009-12-18 | Ruby       | 2019-08-13   |
+|  5 | [readme](https://github.com/ZenUml/readme)                                               | 2017-10-25 | JavaScript | 2020-08-25   |
+|  6 | [confluence-pagetree-search](https://github.com/nogahighland/confluence-pagetree-search) | 2022-01-19 | TypeScript | 2022-01-19   |
+|  7 | [moco](https://github.com/dreamhead/moco)                                                | 2013-05-14 | Java       | 2022-02-14   |
+|  8 | [react-flow](https://github.com/wbkd/react-flow)                                         | 2021-04-27 | TypeScript | 2022-02-18   |
+|  9 | [html5-helloworld](https://github.com/mechiland/html5-helloworld)                        | 2010-10-29 | md         | 2015-08-09   |
+| 10 | [feedback-gathering](https://github.com/mmollaverdi/feedback-gathering)                  | 2013-12-03 | CSS        | 2014-01-05   |
 
 <!--END_SECTION:my_github-->
