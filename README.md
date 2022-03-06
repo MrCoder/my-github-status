@@ -50,22 +50,22 @@
 |  6 | [confluence-plugin-server](https://github.com/ZenUml/confluence-plugin-server)                     | 2020-07-07 | 2021-02-05 | [8](https://github.com/ZenUml/confluence-plugin-server/pulls?q=is%3Apr+author%3AMrCoder)                 |
 |  7 | [zenuml.app](https://github.com/ZenUml/zenuml.app)                                                 | 2021-12-27 | 2021-12-29 | [4](https://github.com/ZenUml/zenuml.app/pulls?q=is%3Apr+author%3AMrCoder)                               |
 |  8 | [moco](https://github.com/dreamhead/moco)                                                          | 2022-01-04 | 2022-01-08 | [4](https://github.com/dreamhead/moco/pulls?q=is%3Apr+author%3AMrCoder)                                  |
-|  9 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
+|  9 | [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | 2021-04-03 | 2021-04-03 | [2](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls?q=is%3Apr+author%3AMrCoder) |
 | 10 | [refined-github](https://github.com/ZenUml/refined-github)                                         | 2020-06-30 | 2020-06-30 | [2](https://github.com/ZenUml/refined-github/pulls?q=is%3Apr+author%3AMrCoder)                           |
-| 11 | [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | 2021-04-03 | 2021-04-03 | [2](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls?q=is%3Apr+author%3AMrCoder) |
+| 11 | [aws-widgets](https://github.com/cloudman-hq/aws-widgets)                                          | 2020-06-08 | 2020-06-08 | [2](https://github.com/cloudman-hq/aws-widgets/pulls?q=is%3Apr+author%3AMrCoder)                         |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [pluto](https://github.com/ajessup/pluto)                                  | 2010-06-28 | JavaScript | 2019-08-13   |
-|  2 | [ParkingLot](https://github.com/MrCoder/ParkingLot)                        | 2010-10-30 | Java       | 2013-10-15   |
-|  3 | [html5-helloworld](https://github.com/MrCoder/html5-helloworld)            | 2010-11-15 | md         | 2012-12-15   |
-|  4 | [Javafx-WebView-Debugger](https://github.com/vsch/Javafx-WebView-Debugger) | 2021-05-12 | Java       | 2022-01-20   |
-|  5 | [model](https://github.com/goadesign/model)                                | 2021-02-23 | Go         | 2022-02-23   |
-|  6 | [livewire](https://github.com/livewire/livewire)                           | 2022-03-02 | Blade      | 2022-03-04   |
-|  7 | [angularjs.org](https://github.com/angular/angularjs.org)                  | 2014-02-10 | JavaScript | 2022-02-06   |
-|  8 | [Twitter-Blog-Demo](https://github.com/overture8/Twitter-Blog-Demo)        | 2009-12-18 | Ruby       | 2019-08-13   |
-|  9 | [html5-helloworld](https://github.com/mechiland/html5-helloworld)          | 2010-10-29 | md         | 2015-08-09   |
-| 10 | [act](https://github.com/nektos/act)                                       | 2021-04-01 | Go         | 2022-03-04   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)                            | 2010-11-15 | JavaScript | 2021-03-12   |
+|  2 | [CS_eBooks](https://github.com/Aj-Ong/CS_eBooks)                                         | 2022-02-05 | md         | 2022-02-05   |
+|  3 | [html5-helloworld](https://github.com/MrCoder/html5-helloworld)                          | 2010-11-15 | md         | 2012-12-15   |
+|  4 | [readme](https://github.com/ZenUml/readme)                                               | 2017-10-25 | JavaScript | 2020-08-25   |
+|  5 | [moco](https://github.com/dreamhead/moco)                                                | 2013-05-14 | Java       | 2022-03-02   |
+|  6 | [pua-lang](https://github.com/flaneur2020/pua-lang)                                      | 2021-04-19 | Rust       | 2022-03-05   |
+|  7 | [ParkingLot](https://github.com/MrCoder/ParkingLot)                                      | 2010-10-30 | Java       | 2013-10-15   |
+|  8 | [demo-directives](https://github.com/mhevery/demo-directives)                            | 2013-05-08 | JavaScript | 2016-05-15   |
+|  9 | [confluence-pagetree-search](https://github.com/nogahighland/confluence-pagetree-search) | 2022-01-19 | TypeScript | 2022-01-19   |
+| 10 | [panel](https://github.com/pterodactyl/panel)                                            | 2021-12-27 | PHP        | 2022-03-05   |
 
 <!--END_SECTION:my_github-->
