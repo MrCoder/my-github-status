@@ -54,17 +54,17 @@
 | 10 | [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | 2021-04-03 | 2021-04-03 | [2](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls?q=is%3Apr+author%3AMrCoder) |
 
 ## The repos I stared (random 10)
-| ID |                           REPO                            | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------|------------|--------------|--------------|
-|  1 | [jumly](https://github.com/tmtk75/jumly)                  | 2017-06-30 | CoffeeScript | 2021-11-26   |
-|  2 | [readme](https://github.com/ZenUml/readme)                | 2017-10-25 | JavaScript   | 2020-08-25   |
-|  3 | [sourcegraph](https://github.com/sourcegraph/sourcegraph) | 2020-06-28 | Go           | 2022-03-14   |
-|  4 | [pluto](https://github.com/ajessup/pluto)                 | 2010-06-28 | JavaScript   | 2019-08-13   |
-|  5 | [theRailWorld](https://github.com/overture8/theRailWorld) | 2009-12-18 | JavaScript   | 2019-08-13   |
-|  6 | [svelte](https://github.com/sveltejs/svelte)              | 2019-10-14 | TypeScript   | 2022-03-14   |
-|  7 | [pua-lang](https://github.com/flaneur2020/pua-lang)       | 2021-04-19 | Rust         | 2022-03-12   |
-|  8 | [stompc](https://github.com/mechiland/stompc)             | 2009-12-18 | C            | 2017-03-24   |
-|  9 | [CS_eBooks](https://github.com/Aj-Ong/CS_eBooks)          | 2022-02-05 | md           | 2022-02-05   |
-| 10 | [giscus](https://github.com/giscus/giscus)                | 2022-02-21 | TypeScript   | 2022-03-14   |
+| ID |                                               REPO                                                | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [skill-map](https://github.com/TeamStuQ/skill-map)                                                | 2016-06-17 | HTML         | 2022-03-15   |
+|  2 | [readme](https://github.com/ZenUml/readme)                                                        | 2017-10-25 | JavaScript   | 2020-08-25   |
+|  3 | [Specification-by-example-SalesTax](https://github.com/MrCoder/Specification-by-example-SalesTax) | 2012-02-29 | md           | 2013-01-08   |
+|  4 | [feedback-gathering](https://github.com/mmollaverdi/feedback-gathering)                           | 2013-12-03 | CSS          | 2014-01-05   |
+|  5 | [jumly](https://github.com/tmtk75/jumly)                                                          | 2017-06-30 | CoffeeScript | 2021-11-26   |
+|  6 | [play-mods](https://github.com/mklabs/play-mods)                                                  | 2014-07-17 | JavaScript   | 2016-04-24   |
+|  7 | [html5-helloworld](https://github.com/MrCoder/html5-helloworld)                                   | 2010-11-15 | md           | 2012-12-15   |
+|  8 | [Twitter-Blog-Demo](https://github.com/overture8/Twitter-Blog-Demo)                               | 2009-12-18 | Ruby         | 2019-08-13   |
+|  9 | [moco](https://github.com/dreamhead/moco)                                                         | 2013-05-14 | Java         | 2022-03-15   |
+| 10 | [Specification-by-example-SalesTax](https://github.com/swzhou/Specification-by-example-SalesTax)  | 2012-02-26 | Java         | 2014-01-01   |
 
 <!--END_SECTION:my_github-->
