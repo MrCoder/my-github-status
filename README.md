@@ -55,17 +55,17 @@
 | 11 | [refined-github](https://github.com/ZenUml/refined-github)                                         | 2020-06-30 | 2020-06-30 | [2](https://github.com/ZenUml/refined-github/pulls?q=is%3Apr+author%3AMrCoder)                           |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [iXpense](https://github.com/MrCoder/iXpense)                                                     | 2010-10-31 | Java       | 2013-10-08   |
-|  2 | [Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example)        | 2018-06-30 | C#         | 2022-03-31   |
-|  3 | [Specification-by-example-SalesTax](https://github.com/MrCoder/Specification-by-example-SalesTax) | 2012-02-29 | md         | 2013-01-08   |
-|  4 | [html5-helloworld](https://github.com/MrCoder/html5-helloworld)                                   | 2010-11-15 | md         | 2012-12-15   |
-|  5 | [react-flow](https://github.com/wbkd/react-flow)                                                  | 2021-04-27 | TypeScript | 2022-04-02   |
-|  6 | [pua-lang](https://github.com/flaneur2020/pua-lang)                                               | 2021-04-19 | Rust       | 2022-03-31   |
-|  7 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)                                     | 2010-11-15 | JavaScript | 2021-03-12   |
-|  8 | [angular-express-seed](https://github.com/btford/angular-express-seed)                            | 2014-02-10 | JavaScript | 2022-03-16   |
-|  9 | [panel](https://github.com/pterodactyl/panel)                                                     | 2021-12-27 | PHP        | 2022-04-02   |
-| 10 | [ParkingLot](https://github.com/MrCoder/ParkingLot)                                               | 2010-10-30 | Java       | 2013-10-15   |
+| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [3-pages-in-3-weeks](https://github.com/abruzzi/3-pages-in-3-weeks)    | 2015-06-13 | CSS        | 2021-08-27   |
+|  2 | [angularjs.org](https://github.com/angular/angularjs.org)              | 2014-02-10 | JavaScript | 2022-03-23   |
+|  3 | [act](https://github.com/nektos/act)                                   | 2021-04-01 | Go         | 2022-04-03   |
+|  4 | [resume](https://github.com/MrCoder/resume)                            | 2012-03-14 | md         | 2014-05-05   |
+|  5 | [iXpense2](https://github.com/MrCoder/iXpense2)                        | 2010-11-02 | JavaScript | 2013-12-27   |
+|  6 | [m-r](https://github.com/gregoryyoung/m-r)                             | 2020-04-08 | C#         | 2022-04-02   |
+|  7 | [play-mods](https://github.com/mklabs/play-mods)                       | 2014-07-17 | JavaScript | 2016-04-24   |
+|  8 | [nosql-unit](https://github.com/lordofthejars/nosql-unit)              | 2017-01-26 | Java       | 2021-12-07   |
+|  9 | [pua-lang](https://github.com/flaneur2020/pua-lang)                    | 2021-04-19 | Rust       | 2022-03-31   |
+| 10 | [angular-express-seed](https://github.com/btford/angular-express-seed) | 2014-02-10 | JavaScript | 2022-04-03   |
 
 <!--END_SECTION:my_github-->
