@@ -55,17 +55,17 @@
 | 11 | [refined-github](https://github.com/ZenUml/refined-github)                                         | 2020-06-30 | 2020-06-30 | [2](https://github.com/ZenUml/refined-github/pulls?q=is%3Apr+author%3AMrCoder)                           |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [livewire](https://github.com/livewire/livewire)                                         | 2022-03-02 | Blade        | 2022-04-06   |
-|  2 | [m-r](https://github.com/gregoryyoung/m-r)                                               | 2020-04-08 | C#           | 2022-04-06   |
-|  3 | [giscus](https://github.com/giscus/giscus)                                               | 2022-02-21 | TypeScript   | 2022-04-06   |
-|  4 | [skill-map](https://github.com/TeamStuQ/skill-map)                                       | 2016-06-17 | HTML         | 2022-04-06   |
-|  5 | [jumly](https://github.com/tmtk75/jumly)                                                 | 2017-06-30 | CoffeeScript | 2022-03-30   |
-|  6 | [stompc](https://github.com/mechiland/stompc)                                            | 2009-12-18 | C            | 2017-03-24   |
-|  7 | [Simple-Sequence](https://github.com/MrCoder/Simple-Sequence)                            | 2010-11-15 | JavaScript   | 2021-03-12   |
-|  8 | [pluto](https://github.com/ajessup/pluto)                                                | 2010-06-28 | JavaScript   | 2019-08-13   |
-|  9 | [confluence-pagetree-search](https://github.com/nogahighland/confluence-pagetree-search) | 2022-01-19 | TypeScript   | 2022-01-19   |
-| 10 | [sourcegraph](https://github.com/sourcegraph/sourcegraph)                                | 2020-06-28 | Go           | 2022-04-06   |
+| ID |                                    REPO                                    | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [pua-lang](https://github.com/flaneur2020/pua-lang)                        | 2021-04-19 | Rust         | 2022-04-07   |
+|  2 | [livewire](https://github.com/livewire/livewire)                           | 2022-03-02 | Blade        | 2022-04-07   |
+|  3 | [giscus](https://github.com/giscus/giscus)                                 | 2022-02-21 | TypeScript   | 2022-04-07   |
+|  4 | [jumly](https://github.com/tmtk75/jumly)                                   | 2017-06-30 | CoffeeScript | 2022-03-30   |
+|  5 | [Javafx-WebView-Debugger](https://github.com/vsch/Javafx-WebView-Debugger) | 2021-05-12 | Java         | 2022-04-04   |
+|  6 | [angular-express-seed](https://github.com/btford/angular-express-seed)     | 2014-02-10 | JavaScript   | 2022-04-03   |
+|  7 | [demo-directives](https://github.com/mhevery/demo-directives)              | 2013-05-08 | JavaScript   | 2016-05-15   |
+|  8 | [readme](https://github.com/ZenUml/readme)                                 | 2017-10-25 | JavaScript   | 2020-08-25   |
+|  9 | [ParkingLot](https://github.com/MrCoder/ParkingLot)                        | 2010-10-30 | Java         | 2013-10-15   |
+| 10 | [feedback-gathering](https://github.com/mmollaverdi/feedback-gathering)    | 2013-12-03 | CSS          | 2014-01-05   |
 
 <!--END_SECTION:my_github-->
